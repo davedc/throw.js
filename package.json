@@ -1,5 +1,5 @@
 {
-  "name": "throw.js",
+  "name": "node-http-error-objects",
   "version": "3.0.1",
   "description": "A full REST API error collection",
   "main": "lib/index.js",
